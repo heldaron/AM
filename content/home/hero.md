@@ -25,7 +25,8 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-A new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience  
+A new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience
+ We :rocket:
 #<div style="margin-top: -0.5rem;">
 #  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
 #  Latest release <!-- V -->
