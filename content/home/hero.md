@@ -21,16 +21,20 @@ weight = 3
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
   url = "./post/getting-started/"
-  label = '<i class="fas fa-download"></i> Install Now'
+  label = '<i class="fab fa-think-peaks"></i> Learn More'
+#  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-A new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience  - We :rocket:
+A new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience  
+#<div style="margin-top: -0.5rem;">
+#  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
+#  Latest release <!-- V -->
+#  </a>
+#</div>
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
-  Latest release <!-- V -->
-  </a>
+  We :rocket:
 </div>
-<div class="mt-3">
-  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
-</div>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+#<div class="mt-3">
+#  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+#</div>
+#<script async defer src="https://buttons.github.io/buttons.js"></script>
