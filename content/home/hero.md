@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fas fa-rocket"></i> Learn More'
 +++
 
-A brand new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience - We :rocket:
+A brand new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience - Invest|Consult|Exchange :rocket:
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" >
   </a>
