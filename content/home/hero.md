@@ -21,8 +21,7 @@ weight = 3
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
   url = "./post/getting-started/"
-  label = '<i class="fas fa-think-peaks"></i> Learn More'
-#label = '<i class="fas fa-download"></i> Install Now'
+  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
 A new way to discover the world of cryptocurrencies. Many years of mathematics, statistical and economic experience
