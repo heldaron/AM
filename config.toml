@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Investcoex"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,9 +50,9 @@ enableGitInfo = false
 [params]
   # AUTHOR SETUP
 
-  # Your details.
-  name = "Aron Felix Held & Marcelo Ventura"
-  role = "Professor of Artificial Intelligence"
+  # Your details.Aron Felix Held & Marcelo Ventura
+  name = "Investcoex"
+  role = "Invest|Consult|Exchange"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,9 +62,9 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  email = "consult@investcoex.com"
+  address = "Kurfürstendamm 21, 7. Level, 10719 Berlin, Germany"
+  office_hours = "On appointment via email"
   phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""

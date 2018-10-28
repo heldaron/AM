@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cryptocurrencies",
+    "Statistics",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +35,7 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+We have specialized in a statistically observing the cryptocurrency market in a way to be as much objective as possible. Based on that we create models and strategies to fulfill our ambitious requirements. We believe that once leaving aside any subjective opinion within the cryptocurrency market, we are able to profit the best way. In a way of high volatility and rising gamma and theta risk, we need to be careful.
+We speak German, English, Portuguese and Spanish.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The biggest mistake people make is trading based on subjectivity rather than staying with facts based on math and market behavior.
