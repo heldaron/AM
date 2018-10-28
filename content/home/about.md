@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# About
 
 We have specialized in a statistically observing the cryptocurrency market in a way to be as much objective as possible. Based on that we create models and strategies to fulfill our ambitious requirements. We believe that once leaving aside any subjective opinion within the cryptocurrency market, we are able to profit the best way. In a way of high volatility and rising gamma and theta risk, we need to be careful.
 We speak German, English, Portuguese and Spanish.
