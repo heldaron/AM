@@ -1,0 +1,29 @@
+---
+title: "First blog post"
+author: "Marcelo Ventura"
+date: "05/12/2018"
+categories: ["R"]
+tags: ["R", "Crypto", "Remote"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello world!
+
+Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:
+
+1) an economist which had/wanted to learn a lot about stats and R language,
+2) a person who regrets to not have invested in cryptos the first time I've heard about it (who doesn't?),
+3) a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.
+
+After all these 3) points, I've began working remotely with R.
+
+My first project was a Poster submission to III SER, based in Niterói, Rio de Janeiro.
+
+Fortunately my friend (include his mail) had the availability to present our work, and we've been awarded with third place.
+
+Then, after working remotely I've became passionated about it and worked with more than 20 worldwide projects for clients from US, Trinidad and Tobago, Bulgaria, Canada, and Germany.
+
+This last country reserved me the great opportunity to meet Aron Held. All he had to say was I want to work with crypto data and after few engagements we've decided to work together to provide the best possible environment for crypto lovers, and anyone who wants to follow up upcoming trends, market movements, and advisory with extreme quality and research level.
