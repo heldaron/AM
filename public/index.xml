@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0300</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
@@ -33,7 +33,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -43,7 +43,7 @@
     <item>
       <title>Example Talk</title>
       <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
       
       <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
@@ -67,7 +67,7 @@
     <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/project/external-project/</guid>
       <description></description>
@@ -76,7 +76,7 @@
     <item>
       <title>Internal Project</title>
       <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -94,7 +94,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -320,7 +320,7 @@ git submodule update --init --recursive
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
       
       <guid>/publication/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -333,7 +333,10 @@ git submodule update --init --recursive
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -378,10 +381,36 @@ Figure 1: A fancy pie chart.
     <item>
       <title>Mobile visual clothing search</title>
       <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0300</pubDate>
       
       <guid>/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First blog post</title>
+      <link>/post/2018-12-5-r-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-12-5-r-markdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;hello-world&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Hello world!&lt;/h2&gt;
+&lt;p&gt;Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;an economist which had/wanted to learn a lot about stats and R language,&lt;/li&gt;
+&lt;li&gt;a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?),&lt;/li&gt;
+&lt;li&gt;a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;After all these 3) points, I’ve began working remotely with R.&lt;/p&gt;
+&lt;p&gt;My first project was a Poster submission to III SER, based in Niterói, Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Fortunately my friend (include his mail) had the availability to present our work, and we’ve been awarded with third place.&lt;/p&gt;
+&lt;p&gt;Then, after working remotely I’ve became passionated about it and worked with more than 20 worldwide projects for clients from US, Trinidad and Tobago, Bulgaria, Canada, and Germany.&lt;/p&gt;
+&lt;p&gt;This last country reserved me the great opportunity to meet Aron Held. All he had to say was I want to work with crypto data and after few engagements we’ve decided to work together to provide the best possible environment for crypto lovers, and anyone who wants to follow up upcoming trends, market movements, and advisory with extreme quality and research level.&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
