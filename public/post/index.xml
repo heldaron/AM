@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>First blog post</title>
+      <link>/post/2018-12-10-helloworld/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-12-10-helloworld/</guid>
+      <description>Hello world! Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:
+an economist which had/wanted to learn a lot about stats and R language, a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?), a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.</description>
+    </item>
+    
+    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
