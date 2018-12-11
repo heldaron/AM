@@ -62,11 +62,11 @@ enableGitInfo = false
   avatar = "icx1.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "consult@investcoex.com"
+  email = "aronf.held@gmail.com | marcelos.ventura@gmail.com"
   address = "Kurfürstendamm 21, 7. Level, 10719 Berlin, Germany"
   office_hours = "On appointment via email"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+5561933001300"
+  skype = "mvthx | aron514"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -112,7 +112,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "aron514 | marcelosventura"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".

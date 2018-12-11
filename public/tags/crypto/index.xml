@@ -7,16 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First blog post</title>
-      <link>/post/2018-12-5-r-markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/post/2018-12-10-helloworld/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-12-5-r-markdown/</guid>
+      <guid>/post/2018-12-10-helloworld/</guid>
       <description>Hello world! Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:
 an economist which had/wanted to learn a lot about stats and R language, a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?), a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.</description>
     </item>
