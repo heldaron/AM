@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on Investcoex</title>
+    <link>/categories/shiny/</link>
+    <description>Recent content in Shiny on Investcoex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crypto app!</title>
+      <link>/post/crypto-app/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/crypto-app/</guid>
+      <description> Hello out there again. This is my second post here and I will be talking about the app I developed after submitting a work to SER - International Seminar on Statistics with R, hosted by UFF (Universidade Federal Fluminense).
+The intention of this app is to provide an automatized solution for visualizing and modeling crypto data. The whole logic followed this path:
+Create a logic to get data from here Get apps  </description>
+    </item>
+    
+  </channel>
+</rss>

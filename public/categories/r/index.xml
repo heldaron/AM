@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Crypto app!</title>
+      <link>/post/crypto-app/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/crypto-app/</guid>
+      <description> Hello out there again. This is my second post here and I will be talking about the app I developed after submitting a work to SER - International Seminar on Statistics with R, hosted by UFF (Universidade Federal Fluminense).
+The intention of this app is to provide an automatized solution for visualizing and modeling crypto data. The whole logic followed this path:
+Create a logic to get data from here Get apps  </description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>Hello world! Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:
+an economist which had/wanted to learn a lot about stats and R language, a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?), a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

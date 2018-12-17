@@ -1,3 +1,7 @@
 ---
 site: blogdown:::blogdown_site
 ---
+#options(blogdown.ext = ".Rmd", blogdown.author = "Marcelo Ventura")
+#To add a post, you must create the Rmd file and insert it inside content/post/ folder.
+#Change home info go to content/home folder
+#to init server in R 
