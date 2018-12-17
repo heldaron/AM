@@ -4,6 +4,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/post/crypto-app/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
     </url>
@@ -14,6 +15,10 @@
     
       <loc>/post/hello-world/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+=======
+      <loc>/post/2018-12-10-helloworld/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+>>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
     </url>
     
   
@@ -163,7 +168,11 @@
     <url>
     
       <loc>/tags/crypto/</loc>
+<<<<<<< HEAD
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+=======
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+>>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <priority>0</priority>
     </url>
     
@@ -222,8 +231,13 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/tags/r/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+=======
+      <loc>/categories/r/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+>>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <priority>0</priority>
     </url>
     
@@ -231,8 +245,13 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/categories/r/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/r/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+>>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <priority>0</priority>
     </url>
     
@@ -250,6 +269,7 @@
     <url>
     
       <loc>/tags/remote/</loc>
+<<<<<<< HEAD
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -260,6 +280,9 @@
     
       <loc>/categories/shiny/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+=======
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+>>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <priority>0</priority>
     </url>
     
@@ -294,6 +317,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/tags/app/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -314,6 +338,10 @@
     
       <loc>/tags/plot/</loc>
       <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+>>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <priority>0</priority>
     </url>
     
