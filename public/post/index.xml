@@ -13,7 +13,6 @@
     
     
     <item>
-<<<<<<< HEAD
       <title>Crypto app!</title>
       <link>/post/crypto-app/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
@@ -30,13 +29,16 @@ Create a logic to get data from here Get apps  </description>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/hello-world/</guid>
-=======
+      <description>Hello world! Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:
+an economist which had/wanted to learn a lot about stats and R language, a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?), a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.</description>
+    </item>
+    
+    <item>
       <title>First blog post</title>
       <link>/post/2018-12-10-helloworld/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-12-10-helloworld/</guid>
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <description>Hello world! Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:
 an economist which had/wanted to learn a lot about stats and R language, a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?), a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.</description>
     </item>

@@ -24,11 +24,7 @@
     <item>
       <title>Crypto</title>
       <link>/tags/crypto/</link>
-<<<<<<< HEAD
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-=======
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       
       <guid>/tags/crypto/</guid>
       <description></description>
@@ -55,11 +51,7 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-<<<<<<< HEAD
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-=======
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -77,18 +69,13 @@
     <item>
       <title>Remote</title>
       <link>/tags/remote/</link>
-<<<<<<< HEAD
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-=======
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       
       <guid>/tags/remote/</guid>
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>app</title>
       <link>/tags/app/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
@@ -98,8 +85,6 @@
     </item>
     
     <item>
-=======
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>

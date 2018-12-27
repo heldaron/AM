@@ -11,7 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-<<<<<<< HEAD
       <title>Crypto app!</title>
       <link>/post/crypto-app/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
@@ -35,13 +34,6 @@
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/hello-world/</guid>
-=======
-      <title>First blog post</title>
-      <link>/post/2018-12-10-helloworld/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-12-10-helloworld/</guid>
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
       <description>
 
 
@@ -59,10 +51,34 @@
 &lt;p&gt;Then, after working remotely I’ve became passionated about it and worked with more than 20 worldwide projects for clients from US, Trinidad and Tobago, Bulgaria, Canada, and Germany.&lt;/p&gt;
 &lt;p&gt;This last country reserved me the great opportunity to meet Aron Held. All he had to say was I want to work with crypto data and after few engagements we’ve decided to work together to provide the best possible environment for crypto lovers, and anyone who wants to follow up upcoming trends, market movements, and advisory with extreme quality and research level.&lt;/p&gt;
 &lt;p&gt;You can find all my contacts &lt;a href=&#34;https://marcelo-ventura.github.io/aboutme/mypage.html&#34;&gt;here&lt;/a&gt;. Will be glad to hear from you.&lt;/p&gt;
-<<<<<<< HEAD
 &lt;p&gt;Cheers from Brazil!&lt;/p&gt;
-=======
->>>>>>> 3b3f1c00b0e64fe6418d978d1c9ef6e4361613bc
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First blog post</title>
+      <link>/post/2018-12-10-helloworld/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-12-10-helloworld/</guid>
+      <description>
+
+
+&lt;div id=&#34;hello-world&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Hello world!&lt;/h2&gt;
+&lt;p&gt;Hello out there. This is Marcelo, a cryptocurrency ambassador, researcher, and modeler. Before that, I was nothing but:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;an economist which had/wanted to learn a lot about stats and R language,&lt;/li&gt;
+&lt;li&gt;a person who regrets to not have invested in cryptos the first time I’ve heard about it (who doesn’t?),&lt;/li&gt;
+&lt;li&gt;a disciplined guy because of the way of programming, algorithms thinking style, and my need to finish my masters.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;After all these 3) points, I’ve began working remotely with R.&lt;/p&gt;
+&lt;p&gt;My first project was a Poster submission to III SER, based in Niterói, Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Fortunately my friend (include his mail) had the availability to present our work, and we’ve been awarded with third place.&lt;/p&gt;
+&lt;p&gt;Then, after working remotely I’ve became passionated about it and worked with more than 20 worldwide projects for clients from US, Trinidad and Tobago, Bulgaria, Canada, and Germany.&lt;/p&gt;
+&lt;p&gt;This last country reserved me the great opportunity to meet Aron Held. All he had to say was I want to work with crypto data and after few engagements we’ve decided to work together to provide the best possible environment for crypto lovers, and anyone who wants to follow up upcoming trends, market movements, and advisory with extreme quality and research level.&lt;/p&gt;
+&lt;p&gt;You can find all my contacts &lt;a href=&#34;https://marcelo-ventura.github.io/aboutme/mypage.html&#34;&gt;here&lt;/a&gt;. Will be glad to hear from you.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
